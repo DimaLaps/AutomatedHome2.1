@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w2rsiosyu7975y72?svg=true)](https://ci.appveyor.com/project/DimaLaps/automatedhome2-1)
